@@ -1,0 +1,6 @@
+[
+  {"id": "doc1", "title": "Redis basics", "text": "Redis is an in-memory data structure store used as a database, cache, and message broker."},
+  {"id": "doc2", "title": "Search with TF-IDF", "text": "TF-IDF ranks documents based on term frequency and inverse document frequency."},
+  {"id": "doc3", "title": "Python and Redis", "text": "redis-py is the Python client for Redis. It supports pipelines and Lua scripting."},
+  {"id": "doc4", "title": "Vector search", "text": "Vector search uses embeddings to compare semantic similarity between documents."}
+]
