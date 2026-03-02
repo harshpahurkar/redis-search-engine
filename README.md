@@ -1,6 +1,6 @@
 # Redis Search Engine
 
-A TF-IDF search engine built on **Redis sorted sets** — index documents, search with relevance ranking, and manage your index through a clean CLI.
+A TF-IDF search engine built on **Redis sorted sets** — index documents, search with relevance ranking, and manage your index through a clean CLI. Supports both programmatic and command-line usage.
 
 ---
 
